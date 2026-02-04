@@ -3,6 +3,6 @@
   "outputDirectory": "dist",
   "installCommand": "npm install",
   "env": {
-    "VITE_GROQ_API_KEY": "@VITE_GROQ_API_KEY"
+    "VITE_GROQ_API_KEY": "@GROQ_API_KEY"
   }
 }
